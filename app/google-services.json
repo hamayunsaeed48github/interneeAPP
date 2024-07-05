@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138564757208",
+    "project_id": "interneeapp-8c052",
+    "storage_bucket": "interneeapp-8c052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138564757208:android:ec6699c4a253aff72319ad",
+        "android_client_info": {
+          "package_name": "com.example.interneeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8ReK4HdV-9vfeBBlYNgCzjB9AIx1a90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
